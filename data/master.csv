@@ -1,0 +1,638 @@
+event,T,Asset_Number,ELR,High_Level_Asset_Class,Asset_Class_Grouping,Grouping_Full_Name,Engineering_Suffix,System_Asset_Type,EQUIP_CLASS_DESC,birth,death,Sum,weather_station
+0,267.1062032,48075,DOL2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,17/06/2018 14:15,,0.0,Leeds
+0,443.1999532,48081,DOL2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,23/12/2017 12:00,,0.0,Leeds
+0,308.84161989999996,48353,ECM3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,06/05/2018 20:36,,0.0,York
+0,460.84578650000003,48354,ECM3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,05/12/2017 20:30,,0.0,York
+0,596.3381477,48355,ECM4,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,23/07/2017 08:41,,0.0,York
+0,449.60967539999996,48356,ECM4,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,17/12/2017 02:10,,0.0,York
+0,396.48953660000006,48358,ECM4,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,08/02/2018 05:03,,0.0,York
+0,590.2124532,48367,ECM4,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,29/07/2017 11:42,,0.0,York
+0,387.83328660000006,49828,HAJ ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,16/02/2018 20:48,,0.0,Manchester
+0,522.0019440000001,49829,HAJ ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,05/10/2017 16:45,,0.0,Manchester
+0,503.0409255,49830,HAJ ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,24/10/2017 15:49,,0.0,Manchester
+0,367.23259210000003,49831,HAJ ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,Track ID                                          ,09/03/2018 11:13,,0.0,Manchester
+0,652.9638305999999,49832,HAJ ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,27/05/2017 17:40,,0.0,Manchester
+0,726.2624417000001,50378,HUL2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,15/03/2017 10:30,,0.0,York
+0,398.81453660000005,50383,HUL3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,05/02/2018 21:15,,0.0,York
+0,681.7506361000001,50384,HUL3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,28/04/2017 22:47,,0.0,York
+0,340.1999533,50387,HUL4,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,05/04/2018 12:00,,1672.0,Leeds
+0,270.28328660000005,50811,LBE1,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,14/06/2018 10:00,,0.0,Leeds
+0,471.8763422,51863,MDL1,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,24/11/2017 19:46,,0.0,Mirfield
+0,270.23884219999997,51864,MDL1,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,14/06/2018 11:04,,0.0,Mirfield
+0,660.6166084,51865,MDL1,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,20/05/2017 02:00,,101.0,Mirfield
+0,357.84578660000005,53991,MVL1,Track,Track,Track,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,Track ID                                          ,18/03/2018 20:30,,0.0,Manchester
+0,412.37217549999997,53992,MVL1,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,23/01/2018 07:52,,0.0,Manchester
+0,319.3624533,53999,MVL3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,26/04/2018 08:06,,0.0,Huddersfield
+0,341.2568978,54002,MVL3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,04/04/2018 10:38,,0.0,Huddersfield
+0,278.6825922,54014,MVL4,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,06/06/2018 00:25,,0.0,Mirfield
+0,201.5332867,54015,MVM ,Track,Track,Track,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Track ID                                          ,22/08/2018 04:00,,0.0,Manchester
+0,269.61662,54035,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,Track ID                                          ,15/06/2018 02:00,,0.0,Huddersfield
+0,744.9304973,54036,MVN2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,24/02/2017 18:28,,0.0,Mirfield
+0,601.1638422999999,54040,MVN2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,18/07/2017 12:52,,122.0,Mirfield
+0,773.3936917999999,54041,MVN2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,27/01/2017 07:21,,271.0,Mirfield
+0,293.8180089,54058,MVN2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,21/05/2018 21:10,,0.0,Huddersfield
+0,321.4534256,54060,MVN2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,24/04/2018 05:55,,0.0,Mirfield
+0,367.1374534,54062,MVN2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,09/03/2018 13:30,,245.0,Mirfield
+0,734.1478585,54499,NOC ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,07/03/2017 13:15,,0.0,Leeds
+0,788.2832752,54502,NOC ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,12/01/2017 10:00,,0.0,Leeds
+0,399.1312034,54503,NOC ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,05/02/2018 13:39,,0.0,York
+0,655.9298029,55016,PEH ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,24/05/2017 18:29,,0.0,Huddersfield
+0,107.0839812,55017,PEH ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,24/11/2018 14:47,,0.0,Huddersfield
+0,354.499259,58134,TJC3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,22/03/2018 04:49,,0.0,Mirfield
+0,797.0923029,58135,TJC3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,03/01/2017 14:35,,0.0,Leeds
+0,283.218009,58136,TJC3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,01/06/2018 11:34,,0.0,Leeds
+0,472.96037010000003,58145,TJC3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,23/11/2017 17:45,,0.0,Leeds
+0,376.7346756,58146,TJC3,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,27/02/2018 23:10,,0.0,Leeds
+0,632.1978701,145644,MVM ,Track,Track,Not Applicable,TRACK (P.W),TRACK,End Stop                                          ,17/06/2017 12:03,,10.0,Manchester
+0,661.5541085,159598,MVL1,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Level Crossing                                    ,19/05/2017 03:30,,141.0,Manchester
+0,765.0714696,183741,HAJ ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,04/02/2017 15:05,,317.0,Manchester
+0,258.3860645,186801,PPA1,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,26/06/2018 07:32,,295.0,Manchester
+0,489.3895368,186984,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,07/11/2017 07:27,,329.0,Manchester
+0,358.2693979,187011,MVM ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,18/03/2018 10:20,,336.0,Manchester
+0,349.5402312,187013,MVM ,Track,Track,Track,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,S&C Unit                                          ,27/03/2018 03:50,,340.0,Manchester
+0,632.7673146000001,193696,MPR1,P&C,Level Crossings,Not Applicable,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Access Point                                      ,16/06/2017 22:23,,4.0,Manchester
+0,503.09648119999997,194094,MVL1,P&C,Points,Not Applicable,POINTS (S&C),S&C - TURNOUT,Access Point                                      ,24/10/2017 14:29,,3.0,Manchester
+0,754.623553,194102,MVL1,S&T,Signalling,Not Applicable,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Access Point                                      ,15/02/2017 01:50,,11.0,Manchester
+0,265.3249535,864101,TJC3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,19/06/2018 09:00,,55.0,Mirfield
+0,334.3388423,865676,TJC3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,11/04/2018 08:40,,119.0,Mirfield
+0,441.88050899999996,955168,HAJ ,S&T,Telecoms,Telecoms,BLOCK / TOKEN SYSTEMS,BLOCK APPARATUS,Telephones-LS                                     ,24/12/2017 19:40,,19.0,Huddersfield
+0,669.2753701,955171,HAJ ,S&T,Telecoms,Telecoms,TELEPHONE - SPT,"TEL, SPT, CB",Telephones-LS                                     ,11/05/2017 10:11,,19.0,Huddersfield
+0,657.1166086000001,955617,MVM ,S&T,Telecoms,Telecoms,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,Telephones-LS                                     ,23/05/2017 14:00,,21.0,Huddersfield
+0,341.0124535,967632,ECM4,S&T,Signalling,Signalling,TRAIN DESCRIBER,TD - GEC MICROPROCESSOR,Train Describer                                   ,04/04/2018 16:30,,1.0,York
+0,729.4464697000001,971600,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,12/03/2017 06:05,,19.0,York
+0,471.35203679999995,971602,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,25/11/2017 08:21,,12.0,York
+0,629.0957867999999,971609,ECM3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,20/06/2017 14:30,,19.0,York
+0,643.174259,971662,ECM4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,06/06/2017 12:37,,131.0,York
+0,339.5659257,971665,ECM4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,06/04/2018 03:13,,142.0,York
+0,316.52356460000004,971670,ECM4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,29/04/2018 04:14,,126.0,York
+0,324.4499535,971671,ECM4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,21/04/2018 06:00,,140.0,York
+0,766.0679974999999,971672,ECM4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,03/02/2017 15:10,,116.0,York
+0,421.01939789999994,971684,ECM4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,14/01/2018 16:20,,115.0,York
+0,467.46106460000004,971697,ECM3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,29/11/2017 05:44,,118.0,York
+0,319.84578680000004,971699,ECM3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,25/04/2018 20:30,,99.0,York
+0,639.9749535,971700,ECM3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,09/06/2017 17:24,,118.0,York
+0,395.1652313,971806,ECM3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,09/02/2018 12:50,,16.0,York
+0,780.7624419,971807,ECM3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,19/01/2017 22:30,,17.0,York
+0,471.2360646000001,971813,ECM3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,25/11/2017 11:08,,22.0,York
+0,371.3749535,973382,TCW1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,05/03/2018 07:48,,102.0,York
+0,375.4187035,973483,HUL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,01/03/2018 06:45,,138.0,York
+0,645.9846757,973523,HUL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,03/06/2017 17:10,,95.0,York
+0,720.2416086000001,973524,HUL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,21/03/2017 11:00,,94.0,York
+0,319.125648,973737,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,26/04/2018 13:47,,25.0,York
+0,475.30967580000004,973809,ECM4,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,21/11/2017 09:22,,33.0,York
+0,438.5332869,974250,ECM4,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,28/12/2017 04:00,,59.0,York
+0,425.04717580000005,974459,ECM3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,10/01/2018 15:40,,53.0,York
+0,454.02981460000007,974467,ECM3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,12/12/2017 16:05,,19.0,York
+0,476.18814800000007,974468,ECM3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,20/11/2017 12:17,,23.0,York
+0,715.293692,974469,ECM3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,26/03/2017 09:45,,18.0,York
+0,744.0020252999999,974486,ECM4,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,25/02/2017 16:45,,17.0,York
+0,612.4916202,974584,ECM3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,07/07/2017 05:00,,20.0,York
+0,663.1582752999999,974688,ECM4,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,17/05/2017 13:00,,24.0,York
+0,461.1860647,975814,ECM3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,05/12/2017 12:20,,25.0,York
+0,656.0534142000001,975880,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT AC IMMUNE,TC - DC                                           ,24/05/2017 15:31,,39.0,York
+0,790.1791086000001,977985,ECM4,S&T,Telecoms,Telecoms,REMOTE CONTROL SYSTEM,RC TDM LCL END WESTRONIC S2,RCS - TDM                                         ,10/01/2017 12:30,,0.0,York
+0,309.4777313,978419,ECM4,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,06/05/2018 05:20,,334.0,York
+0,421.4082869,979889,HUL3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,14/01/2018 07:00,,276.0,York
+0,735.5228586000001,979905,ECM4,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,06/03/2017 04:15,,365.0,York
+0,620.1964813,979951,ECM3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,29/06/2017 12:05,,134.0,York
+0,359.2728702,990439,ECM4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT -  CANTILEVER,UI - OLE Structure                                ,17/03/2018 10:15,,0.0,Huddersfield
+0,354.1207869,991872,ECM3,Track,Track,Track,BRIDGE,UNDERBR - NON-VIADUCT,Underbridge                                       ,22/03/2018 13:54,,0.0,York
+0,380.2652313,992941,ECM3,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT -  CANTILEVER,UI - OLE Structure                                ,24/02/2018 10:26,,0.0,Huddersfield
+0,317.6582869,993429,ECM3,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT -  CANTILEVER,UI - OLE Structure                                ,28/04/2018 01:00,,0.0,Huddersfield
+0,790.5071295,1002304,ECM4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - HEADSPAN ANCHOR,UI - OLE Structure                                ,10/01/2017 04:37,,1.0,Huddersfield
+0,279.038148,1002332,ECM4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - HEADSPAN ANCHOR,UI - OLE Structure                                ,05/06/2018 15:53,,0.0,Huddersfield
+0,332.1791202,1009571,MVN2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,13/04/2018 12:30,,37.0,Mirfield
+0,799.324942,1009760,DOL2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,01/01/2017 09:00,,40.0,Leeds
+0,410.4270369,1009764,DOL2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,25/01/2018 06:33,,25.0,Leeds
+0,782.3804976,1009767,DOL2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,18/01/2017 07:40,,25.0,Leeds
+0,459.0749536,1010188,MVN2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,07/12/2017 15:00,,44.0,Leeds
+0,768.9673031000001,1010390,CFM ,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,31/01/2017 17:35,,25.0,York
+0,522.4068980000001,1011838,NOC ,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,PRINCIPAL SUPPLY POINT - 650V,Signalling Supply                                 ,05/10/2017 07:02,,1.0,York
+0,751.5332752999999,1011867,NOC ,E&P,E&P,E&P,GENERATOR / SHORE SUPPLY,DIESEL GENERATOR SET - 650V,Diesel Alternator Set                             ,18/02/2017 04:00,,113.0,Leeds
+0,419.0749536,1012077,TJC3,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,PRINCIPAL SUPPLY POINT - 650V,Signalling Supply                                 ,16/01/2018 15:00,,2.0,Leeds
+0,642.2624536000001,1012958,BBW ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,07/06/2017 10:30,,35.0,Mirfield
+0,640.2777313999999,1012960,BBW ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,09/06/2017 10:08,,35.0,Mirfield
+0,634.6582869,1012968,HUL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,15/06/2017 01:00,,27.0,York
+0,653.2416087,1012969,HUL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,27/05/2017 11:00,,20.0,York
+0,359.5332869,1013046,MDL1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,17/03/2018 04:00,,49.0,Mirfield
+0,782.8353587,1013085,MDL1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,17/01/2017 20:45,,26.0,Mirfield
+0,343.6166203,1013087,MDL1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,02/04/2018 02:00,,42.0,Mirfield
+0,320.1298147,1013090,MDL1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,25/04/2018 13:41,,47.0,Mirfield
+0,280.2187036,1013115,MDL1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,04/06/2018 11:33,,41.0,Mirfield
+0,424.4735647,1013162,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,11/01/2018 05:26,,13.0,Mirfield
+0,431.5332869,1013173,DOL2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,04/01/2018 04:00,,16.0,Leeds
+0,475.76452539999997,1013185,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,20/11/2017 22:27,,32.0,Mirfield
+0,610.2624536000001,1013203,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,09/07/2017 10:30,,28.0,Mirfield
+0,488.09092580000004,1013236,HUL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 4 MOD,Sig - Colour                                      ,08/11/2017 14:37,,22.0,York
+0,329.3214814,1013251,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,16/04/2018 09:05,,16.0,Leeds
+0,123.24856470000002,1013252,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,08/11/2018 10:50,,24.0,Leeds
+0,122.3527314,1013478,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,09/11/2018 08:20,,23.0,Leeds
+0,774.8874421,1013507,HUL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,25/01/2017 19:30,,18.0,York
+0,622.1027313999999,1013521,HUL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,27/06/2017 14:20,,19.0,Leeds
+0,425.8562036,1013611,HUL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,09/01/2018 20:15,,24.0,York
+0,603.0124536000001,1013665,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,16/07/2017 16:30,,28.0,Mirfield
+0,490.6027313999999,1013815,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,06/11/2017 02:20,,19.0,York
+0,481.30412029999997,1013819,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,15/11/2017 09:30,,21.0,Leeds
+0,745.9499421,1014831,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL - POS LIGHT 2 ASPECT,Sig - Pos Light                                   ,23/02/2017 18:00,,9.0,Leeds
+0,499.93953700000003,1015924,MVN2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,27/10/2017 18:15,,25.0,Mirfield
+0,669.8388309999999,1017203,MVN2,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,10/05/2017 20:40,,61.0,Mirfield
+0,395.0749537,1017581,PEH ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,09/02/2018 15:00,,15.0,Huddersfield
+0,256.289537,1017584,PEH ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,28/06/2018 09:51,,11.0,Huddersfield
+0,784.9707754,1017585,PEH ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,15/01/2017 17:30,,28.0,Huddersfield
+0,765.5124421,1017595,HUL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,04/02/2017 04:30,,196.0,York
+0,328.22425919999995,1017877,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,17/04/2018 11:25,,13.0,Leeds
+0,438.42912029999997,1017885,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,28/12/2017 06:30,,27.0,Leeds
+0,526.4541203,1017935,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,01/10/2017 05:54,,10.0,Leeds
+0,669.6478588,1018042,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,11/05/2017 01:15,,12.0,Huddersfield
+0,360.1513426,1018046,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,16/03/2018 13:10,,16.0,Huddersfield
+0,430.53814810000006,1018063,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,05/01/2018 03:53,,53.0,Huddersfield
+0,471.17564810000005,1018064,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,25/11/2017 12:35,,10.0,Mirfield
+0,656.3402199,1018073,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,24/05/2017 08:38,,10.0,Huddersfield
+0,654.5183565000001,1018520,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,26/05/2017 04:21,,31.0,Mirfield
+0,325.97078700000003,1018778,LBE1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,19/04/2018 17:30,,117.0,Leeds
+0,358.2624537,1018858,MVL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,18/03/2018 10:30,,98.0,Huddersfield
+0,371.11037039999997,1018861,MVL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,05/03/2018 14:09,,141.0,Huddersfield
+0,472.6166204,1018886,MVL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,24/11/2017 02:00,,98.0,Huddersfield
+0,454.1860648,1018888,MVL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,12/12/2017 12:20,,110.0,Huddersfield
+0,692.4504513999999,1018891,MVL3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,18/04/2017 05:59,,151.0,Huddersfield
+0,450.0749537,1018920,HUL4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,16/12/2017 15:00,,119.0,Leeds
+0,726.7242477000001,1018966,HUL4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,14/03/2017 23:25,,95.0,Leeds
+0,362.6166204,1018989,NOC ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,14/03/2018 02:00,,159.0,Leeds
+0,113.49162040000002,1018995,NOC ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,18/11/2018 05:00,,172.0,Leeds
+0,702.1221644,1019177,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,08/04/2017 13:52,,115.0,Leeds
+0,400.2242593,1019183,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,04/02/2018 11:25,,120.0,Leeds
+0,521.189537,1019232,DOL2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,06/10/2017 12:15,,149.0,Mirfield
+0,522.7943981999999,1019404,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,04/10/2017 21:44,,22.0,York
+0,397.2798148,1019628,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,07/02/2018 10:05,,130.0,Mirfield
+0,368.1166204,1019646,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,08/03/2018 14:00,,142.0,Mirfield
+0,591.5749537,1019652,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,28/07/2017 03:00,,131.0,Mirfield
+0,744.0523496000001,1019659,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,25/02/2017 15:32,,198.0,Huddersfield
+0,282.16592599999996,1019662,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,02/06/2018 12:49,,97.0,Huddersfield
+0,416.2624537,1019749,TJC3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,19/01/2018 10:30,,199.0,Leeds
+0,261.0374537,1020097,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,23/06/2018 15:54,,22.0,Mirfield
+0,255.51592599999998,1020106,MVL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,29/06/2018 04:25,,16.0,Mirfield
+0,678.6929977000001,1020122,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,02/05/2017 00:10,,13.0,Mirfield
+0,503.1999537,1020593,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,24/10/2017 12:00,,15.0,Huddersfield
+0,221.76939819999998,1020596,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,01/08/2018 22:20,,31.0,Huddersfield
+0,648.9499422,1020799,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,31/05/2017 18:00,,15.0,York
+0,371.03328710000005,1020801,MGW ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,05/03/2018 16:00,,12.0,Leeds
+0,634.9950926,1020811,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,14/06/2017 16:55,,9.0,York
+0,383.2166204,1020816,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,21/02/2018 11:36,,12.0,York
+0,654.8818866,1020833,MVL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,25/05/2017 19:38,,12.0,Mirfield
+0,391.24715289999995,1020927,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,13/02/2018 10:52,,17.0,Leeds
+0,355.2312038,1020930,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,21/03/2018 11:15,,16.0,Leeds
+0,654.9707756,1020931,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,25/05/2017 17:30,,19.0,Leeds
+0,349.09578710000005,1021037,CFM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,27/03/2018 14:30,,47.0,Leeds
+0,325.8249538,1021066,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,19/04/2018 21:00,,12.0,York
+0,256.9707871,1021072,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,27/06/2018 17:30,,11.0,Leeds
+0,754.1999422,1021079,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,15/02/2017 12:00,,14.0,Leeds
+0,273.7575927,1021261,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,10/06/2018 22:37,,32.0,Huddersfield
+0,670.2513311,1021381,MDL1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,10/05/2017 10:46,,30.0,Mirfield
+0,768.4506367,1021737,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,01/02/2017 05:59,,12.0,Leeds
+0,790.3457756,1022412,MGW ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,10/01/2017 08:30,,112.0,Leeds
+0,358.2832872,1022441,NOC ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,18/03/2018 10:00,,168.0,Leeds
+0,787.1791089,1022470,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,13/01/2017 12:30,,141.0,Mirfield
+0,775.6721645,1022478,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,25/01/2017 00:40,,59.0,Mirfield
+0,358.3346761,1022479,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,18/03/2018 08:46,,64.0,Mirfield
+0,437.13745379999995,1022484,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,29/12/2017 13:30,,85.0,Mirfield
+0,358.7895372,1022486,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,17/03/2018 21:51,,104.0,Leeds
+0,358.2693983,1022496,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,18/03/2018 10:20,,109.0,Leeds
+0,282.5541205,1022499,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,02/06/2018 03:30,,167.0,Leeds
+0,319.63745389999997,1022505,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,26/04/2018 01:30,,332.0,Huddersfield
+0,392.0527316,1022509,MVL3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,12/02/2018 15:32,,132.0,Mirfield
+0,375.26592610000006,1022541,HUL3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,01/03/2018 10:25,,190.0,York
+0,340.4902317,1022588,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,05/04/2018 05:02,,124.0,Mirfield
+0,700.6006367000001,1022652,NOC ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,10/04/2017 02:23,,213.0,Leeds
+0,296.1249539,1022657,HUL4,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,19/05/2018 13:48,,234.0,Leeds
+0,367.2520372,1022673,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,09/03/2018 10:45,,207.0,Mirfield
+0,358.77356499999996,1022676,NOC ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,17/03/2018 22:14,,339.0,Leeds
+0,367.2325928,1022788,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,09/03/2018 11:13,,172.0,Mirfield
+0,358.26245389999997,1023057,MVL3,Track,Track,Track,POINTS (S&C),S&C - CATCH POINT.,S&C Unit                                          ,18/03/2018 10:30,,142.0,Huddersfield
+0,437.07495389999997,1023178,TJC3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,29/12/2017 15:00,,116.0,Leeds
+0,358.26245389999997,1023319,MVL3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,18/03/2018 10:30,,78.0,Huddersfield
+0,742.5749423,1023333,HUL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,27/02/2017 03:00,,154.0,York
+0,654.4499423,1023335,HUL4,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,26/05/2017 06:00,,202.0,Leeds
+0,351.76245389999997,1024150,MVL3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,24/03/2018 22:30,,110.0,Huddersfield
+0,299.09578730000004,1024163,SHG ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,16/05/2018 14:30,,59.0,Leeds
+0,454.20967609999997,1024172,MVN2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,12/12/2017 11:46,,161.0,Mirfield
+0,475.36662060000003,1024189,HUL3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,21/11/2017 08:00,,158.0,York
+0,731.8770257,1024203,NOC ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,09/03/2017 19:45,,204.0,Leeds
+0,325.86662060000003,1024209,TJC3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,19/04/2018 20:00,,141.0,Leeds
+0,679.6892132,1024211,TJC3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,01/05/2017 00:15,,233.0,Leeds
+0,713.1673035,1024212,TJC3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,28/03/2017 12:47,,288.0,Leeds
+0,374.4270373,1024213,TJC3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,02/03/2018 06:33,,312.0,Leeds
+0,501.2138428,1024259,TJC3,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,26/10/2017 11:40,,202.0,Leeds
+0,483.231204,1024271,CFM ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,13/11/2017 11:15,,76.0,York
+0,389.37981510000003,1024273,TCW1,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,15/02/2018 07:41,,368.0,York
+0,325.2555095,1024964,MVN2,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS & TSS,TPWS                                              ,20/04/2018 10:40,,3.0,Mirfield
+0,727.317998,1025178,NOC ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,14/03/2017 09:10,,127.0,Leeds
+0,597.5541206,1025218,NOC ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,22/07/2017 03:30,,124.0,Leeds
+0,276.5263429,1025423,TCW1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,08/06/2018 04:10,,114.0,York
+0,647.6346762000001,1025451,MDL1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,02/06/2017 01:34,,173.0,Mirfield
+0,187.19648180000002,1026338,PEH ,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - TSS,TPWS                                              ,05/09/2018 12:05,,1.0,Huddersfield
+0,612.6096762,1026486,MVL3,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS & TSS,TPWS                                              ,07/07/2017 02:10,,2.0,Huddersfield
+0,745.5888312999999,1027187,HUL4,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER LED - 1 ROUTE,Route Ind Jcn                                     ,24/02/2017 02:40,,11.0,Leeds
+0,286.8666207,1027372,HUL3,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER - 1 ROUTE,Route Ind Jcn                                     ,28/05/2018 20:00,,16.0,York
+0,312.6200929,1027883,MVN2,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER - 1 ROUTE,Route Ind Jcn                                     ,03/05/2018 01:55,,15.0,Huddersfield
+0,282.09925960000004,1041932,MVN2,S&T,Telecoms,Telecoms,REMOTE CONTROL SYSTEM,RC DCT WIRE LCL END MICRO,RCS - Direct                                      ,02/06/2018 14:25,,0.0,Mirfield
+0,760.2193869,1045266,MVN2,Track,Track,Track,BRIDGE,UNDERBR - NON-VIADUCT,Underbridge                                       ,09/02/2017 11:32,,0.0,Mirfield
+0,266.22356510000003,1046522,MVL3,Track,Track,Track,BRIDGE,OVERBR - NON-VIADUCT,Overbridge                                        ,18/06/2018 11:26,,0.0,Huddersfield
+0,769.1721647,1053761,TJC3,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT -  CANTILEVER,UI - OLE Structure                                ,31/01/2017 12:40,,3.0,Huddersfield
+0,344.53328730000004,1054716,DOL2,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - PORTAL ANCHOR,UI - OLE Structure                                ,01/04/2018 04:00,,2.0,Huddersfield
+0,331.6416207,1054743,DOL2,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - PORTAL,UI - OLE Structure                                ,14/04/2018 01:24,,4.0,Huddersfield
+0,522.7110651,1055237,DOL2,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT -  CANTILEVER ANCHOR,UI - OLE Structure                                ,04/10/2017 23:44,,26.0,Huddersfield
+0,797.1582758,1055280,DOL2,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT -  CANTILEVER ANCHOR,UI - OLE Structure                                ,03/01/2017 13:00,,2.0,Huddersfield
+0,345.9221762,1059206,TCW1,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Level Crossing                                    ,30/03/2018 18:40,,114.0,York
+0,487.24717630000004,1059621,TJC3,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Level Crossing                                    ,09/11/2017 10:52,,78.0,Leeds
+0,761.1811925,1059622,TJC3,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Level Crossing                                    ,08/02/2017 12:27,,68.0,Leeds
+0,320.1999541,1059623,TCW1,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Level Crossing                                    ,25/04/2018 12:00,,82.0,York
+0,370.5332874,1061027,MVN2,Track,Structures,Structures,TUNNEL,TUNNEL BORE,Tunnel Bore                                       ,06/03/2018 04:00,,0.0,Huddersfield
+0,662.0541091,1063020,NOC ,E&P,E&P,E&P,LEVEL CROSSING LIGHTING,LIGHTING SYSTEM - LEVEL CROSSING,Light InstalSys                                   ,18/05/2017 15:30,,24.0,York
+0,637.1777318,1115064,MVN2,S&T,Signalling,Signalling,SIGNAL,SEMAPHORE STOP - MECH ELECT LIT,TC - DC                                           ,12/06/2017 12:32,,35.0,Huddersfield
+0,325.5437041,1115082,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,20/04/2018 03:45,,29.0,Huddersfield
+0,621.0034262999999,1119140,MVN2,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,28/06/2017 16:43,,9.0,Huddersfield
+0,633.9756485,1123155,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,15/06/2017 17:23,,128.0,Huddersfield
+0,709.3381369,1123163,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,01/04/2017 08:41,,137.0,Huddersfield
+0,705.9881369,1146544,MVN2,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER - 1 ROUTE,Route Ind Jcn                                     ,04/04/2017 17:05,,10.0,Huddersfield
+0,293.9999541,1162828,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,21/05/2018 16:48,,15.0,Huddersfield
+0,493.1791208000001,1187649,TJC3,S&T,Telecoms,Telecoms,REMOTE CONTROL SYSTEM,RC TDM LCL END OTHER,RCS - TDM                                         ,03/11/2017 12:30,,0.0,Mirfield
+0,432.2860652,1238186,ELN ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,03/01/2018 09:56,,18.0,Leeds
+0,743.1186925,1238432,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,26/02/2017 13:57,,13.0,Leeds
+0,292.8145374,1239326,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,22/05/2018 21:15,,13.0,York
+0,654.8423036,1239329,MGW ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,25/05/2017 20:35,,21.0,Leeds
+0,427.1492597,1239402,HUL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,08/01/2018 13:13,,16.0,Leeds
+0,378.6270374,1239404,HUL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,26/02/2018 01:45,,12.0,Leeds
+0,490.2624541,1239445,HUL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,06/11/2017 10:30,,12.0,Leeds
+0,733.0749425,1245364,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,08/03/2017 15:00,,15.0,Leeds
+0,660.5034147999999,1245645,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,20/05/2017 04:43,,193.0,Huddersfield
+0,688.1791092,1245654,TJC3,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,22/04/2017 12:30,,104.0,Leeds
+0,159.34231519999997,1245687,HUL4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,03/10/2018 08:35,,129.0,Leeds
+0,320.5749541,1245688,HUL4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,25/04/2018 03:00,,118.0,Leeds
+0,463.5124541,1245690,HUL4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,03/12/2017 04:30,,125.0,Leeds
+0,638.5541208,1245695,HUL4,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,11/06/2017 03:30,,120.0,Leeds
+0,349.5402319,1246123,HUL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,27/03/2018 03:50,,10.0,Leeds
+0,278.5332875,1310453,DOL2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,06/06/2018 04:00,,0.0,Leeds
+0,282.5541208,1310457,DOL2,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,02/06/2018 03:30,,0.0,Leeds
+0,706.5749426,1348667,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,04/04/2017 03:00,,33.0,Huddersfield
+0,323.4291208,1348681,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,22/04/2018 06:30,,201.0,Leeds
+0,414.44994260000004,1348686,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,21/01/2018 06:00,,147.0,Leeds
+0,584.5332875,1348689,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,04/08/2017 04:00,,144.0,Leeds
+0,658.5782642999999,1348707,HUL4,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,22/05/2017 02:55,,103.0,Leeds
+0,672.5676625,1348713,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,08/05/2017 03:10,,246.0,Leeds
+0,258.513843,1348870,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,26/06/2018 04:28,,157.0,Leeds
+0,262.5318986,1348871,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,22/06/2018 04:02,,135.0,Leeds
+0,257.5923153,1348886,ELN ,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,27/06/2018 02:35,,87.0,Leeds
+0,643.5020258999999,1348887,DOL2,Track,Track,Track,POINTS (S&C),S&C - TURNOUT,S&C Unit                                          ,06/06/2017 04:45,,124.0,Leeds
+0,724.9603592,1396883,MDL1,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS & TSS,TPWS                                              ,16/03/2017 17:45,,2.0,Mirfield
+0,386.5124542,1396887,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,18/02/2018 04:30,,13.0,Leeds
+0,788.5228592999999,1396891,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,12/01/2017 04:15,,10.0,Leeds
+0,671.2728592999999,1396907,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,09/05/2017 10:15,,13.0,Leeds
+0,423.5332875,1396959,DOL2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,12/01/2018 04:00,,125.0,Leeds
+0,262.4527319,1396979,DOL2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,22/06/2018 05:56,,115.0,Leeds
+0,356.52009310000005,1396990,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,20/03/2018 04:19,,28.0,Leeds
+0,713.0173037000001,1397370,MVL3,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS & TSS,TPWS                                              ,28/03/2017 16:23,,1.0,Huddersfield
+0,360.9985653,1450622,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 3 ASPECT,Sig - Colour                                      ,15/03/2018 16:50,,33.0,Manchester
+0,276.2041208,1450667,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 3 ASPECT,Sig - Colour                                      ,08/06/2018 11:54,,30.0,Manchester
+0,449.60967639999996,1450680,MVN2,S&T,Signalling,Signalling,TRACK (P.W),TRACK,Sig - Colour                                      ,17/12/2017 02:10,,36.0,Manchester
+0,715.9429982,1450789,HAJ ,S&T,Signalling,Signalling,SIGNAL,SEMAPHORE STOP - MECH ELECT LIT,Sig - Colour                                      ,25/03/2017 18:10,,31.0,Manchester
+0,525.3041208999999,1450806,HAJ ,S&T,Signalling,Signalling,TRANSMISSION - NON FTN,"TX EQPT, MUX (NON FTN)",Sig - Colour                                      ,02/10/2017 09:30,,27.0,Manchester
+0,269.18884310000004,1450808,HAJ ,S&T,Signalling,Signalling,TRACK (P.W),TRACK,Sig - Colour                                      ,15/06/2018 12:16,,23.0,Manchester
+0,709.1200815000001,1450811,HAJ ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 2 ASPECT,Sig - Colour                                      ,01/04/2017 13:55,,27.0,Manchester
+0,785.9601162,1451012,MVL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 3 ASPECT,Sig - Colour                                      ,14/01/2017 17:45,,27.0,Huddersfield
+0,402.54648199999997,1451013,MVL1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,02/02/2018 03:41,,31.0,Manchester
+0,521.2416208999999,1451911,MVL1,S&T,Signalling,Signalling,SIGNAL,SEMAPHORE STOP - MECH ELECT LIT,Sig - Semaphore                                   ,06/10/2017 11:00,,76.0,Manchester
+0,378.1332875,1451912,AMJ ,S&T,Signalling,Signalling,SIGNAL,SEMAPHORE STOP - MECH ELECT LIT,Sig - Semaphore                                   ,26/02/2018 13:36,,75.0,Manchester
+0,533.9659264,1452212,MVM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,23/09/2017 17:37,,12.0,Manchester
+0,394.9082875,1452260,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,09/02/2018 19:00,,11.0,Manchester
+0,464.0853709,1452339,HAJ ,S&T,Signalling,Signalling,TELEPHONE - CROSSING,"TEL, CONTROLLED XING, CB",Sig - Colour                                      ,02/12/2017 14:45,,25.0,Manchester
+0,391.2159264,1452340,HAJ ,S&T,Signalling,Signalling,POINTS (S&C),S&C - TURNOUT,Sig - Colour                                      ,13/02/2018 11:37,,22.0,Manchester
+0,311.3923153,1452455,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,04/05/2018 07:23,,25.0,Manchester
+0,276.2367598,1452479,MPR1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 3 ASPECT,Sig - Colour                                      ,08/06/2018 11:07,,26.0,Manchester
+0,325.9291209,1452482,MPR1,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Sig - Colour                                      ,19/04/2018 18:30,,34.0,Manchester
+0,640.0437042000001,1452484,MPR1,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,09/06/2017 15:45,,30.0,Manchester
+0,410.7443987,1452488,MVM ,S&T,Signalling,Signalling,BOUNDARY MEASURE,BOUNDARY UPSIDE,Sig - Colour                                      ,24/01/2018 22:56,,34.0,Manchester
+0,356.17078760000004,1452499,HAJ ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 3 ASPECT,Sig - Colour                                      ,20/03/2018 12:42,,31.0,Manchester
+0,344.76939869999995,1452532,MVL3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 3 ASPECT,Sig - Colour                                      ,31/03/2018 22:20,,29.0,Huddersfield
+0,252.19995419999998,1452569,MVM ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,02/07/2018 12:00,,39.0,Manchester
+0,521.3506487,1455609,HAJ ,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,AWS - AUTOMATIC WARNING SYSTEM,AWS                                               ,06/10/2017 08:23,,4.0,Manchester
+0,689.5006371000001,1455848,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - MECHANICAL,Point Operating Equipment                         ,21/04/2017 04:47,,89.0,Manchester
+0,346.8721765,1455859,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - MECHANICAL,Point Operating Equipment                         ,29/03/2018 19:52,,68.0,Manchester
+0,293.3457876,1455957,MVL1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,22/05/2018 08:30,,125.0,Manchester
+0,522.3930098000001,1455966,MVM ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,05/10/2017 07:22,,106.0,Manchester
+0,392.31106539999996,1455984,MVL1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,12/02/2018 09:20,,129.0,Manchester
+0,376.5541209,1455994,MVM ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,28/02/2018 03:30,,124.0,Manchester
+0,661.4445607000001,1456217,MVN2,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS & TSS,TPWS                                              ,19/05/2017 06:07,,8.0,Manchester
+0,261.1860654,1458187,SAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,23/06/2018 12:20,,17.0,Manchester
+0,89.44023204,1458223,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,12/12/2018 06:14,,16.0,Manchester
+0,473.01939869999995,1458232,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - DC                                           ,23/11/2017 16:20,,24.0,Manchester
+0,326.0812043,1458481,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,19/04/2018 14:51,,16.0,Manchester
+0,392.471482,1458795,HAJ ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,12/02/2018 05:29,,109.0,Manchester
+0,797.9990052,1458798,HAJ ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,02/01/2017 16:49,,105.0,Manchester
+0,456.45203760000004,1458809,HAJ ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,10/12/2017 05:57,,95.0,Manchester
+0,362.38675980000005,1458826,HAJ ,P&C,Points,Points,SIGNAL,SIGNAL HEAD - 4 ASPECT,Point Operating Equipment                         ,14/03/2018 07:31,,119.0,Manchester
+0,391.91384320000003,1458831,SAJ ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,12/02/2018 18:52,,100.0,Manchester
+0,312.5749543,1458849,HAJ ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,03/05/2018 03:00,,98.0,Manchester
+0,236.31592650000002,1458912,MPR1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,18/07/2018 09:13,,15.0,Manchester
+0,734.3561927000001,1458939,MVL1,S&T,Signalling,Signalling,LEVEL CROSSING EQUIPMENT,LX - FOOTPATH XING,TC - High Freq                                    ,07/03/2017 08:15,,16.0,Manchester
+0,220.9700932,1458953,MVL1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,02/08/2018 17:31,,15.0,Manchester
+0,678.4707761,1458966,PPA1,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),TC - High Freq                                    ,02/05/2017 05:30,,13.0,Manchester
+0,305.2902321,1458991,MVM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,10/05/2018 09:50,,25.0,Manchester
+0,409.397871,1459128,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,26/01/2018 07:15,,79.0,Manchester
+0,374.5985654,1459143,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,02/03/2018 02:26,,119.0,Manchester
+0,264.2312043,1459323,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -IMPULSE GEC ALSTOM,TC - Impulse                                      ,20/06/2018 11:15,,17.0,Manchester
+0,273.1943988,1459376,MVM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -IMPULSE GEC ALSTOM,TC - Impulse                                      ,11/06/2018 12:08,,10.0,Manchester
+0,336.2596765,1459379,MVM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -IMPULSE GEC ALSTOM,TC - Impulse                                      ,09/04/2018 10:34,,18.0,Manchester
+0,581.3548154,1459690,MPR1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,07/08/2017 08:17,,10.0,Manchester
+0,326.8409265,1459743,HAJ ,P&C,Points,Signalling,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,TC - High Freq                                    ,18/04/2018 20:37,,16.0,Manchester
+0,31.8652321,1459747,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -REED - JOINTED,TC - High Freq                                    ,07/02/2019 20:02,,11.0,Manchester
+0,370.44023210000006,1459765,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -REED - JOINTED,TC - High Freq                                    ,06/03/2018 06:14,,15.0,Manchester
+0,719.8808687000001,1459770,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -REED - JOINTED,TC - High Freq                                    ,21/03/2017 19:39,,14.0,Manchester
+0,240.3950932,1459796,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -REED - JOINTED,TC - High Freq                                    ,14/07/2018 07:19,,21.0,Manchester
+0,772.1445144999999,1459856,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -REED - JOINTED,TC - High Freq                                    ,28/01/2017 13:19,,20.0,Manchester
+0,344.53328769999996,1460155,HAJ ,P&C,Points,Not Applicable,OLE STRUCTURE,OLE STRUCT - PORTAL ANCHOR,Mechanical Lever Equipment                        ,01/04/2018 04:00,,1.0,Manchester
+0,790.2589705,1460171,HAJ ,S&T,Signalling,Not Applicable,PANEL / FRAME,SIGCONT&INDEQ - LEVER F RSCO,Mechanical Lever Equipment                        ,10/01/2017 10:35,,12.0,Manchester
+0,782.1304982999999,1465071,MVM ,P&C,Points,Not Applicable,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Route Ind Jcn                                     ,18/01/2017 13:40,,19.0,Manchester
+0,348.2624543,1495417,HUL2,Track,Track,Track,BRIDGE,UNDERBR - MOVING SWING,Underbridge                                       ,28/03/2018 10:30,,411.0,York
+0,668.978415,1496028,TJC3,S&T,Signalling,Signalling,SIGNAL BOX / RELAY ROOM,RELAY ROOM (FABRIC),Building                                          ,11/05/2017 17:19,,93.0,Leeds
+0,271.116621,1518823,TCW1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,13/06/2018 14:00,,104.0,York
+0,271.116621,1519167,TCW1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,13/06/2018 14:00,,99.0,York
+0,370.19995439999997,1522007,MGW ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,06/03/2018 12:00,,25.0,Leeds
+0,753.8284150000001,1523674,MGW ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,15/02/2017 20:55,,162.0,Leeds
+0,316.2450932,1525481,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,29/04/2018 10:55,,9.0,York
+0,497.1006488,1525490,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - 4 ASPECT,Sig - Colour                                      ,30/10/2017 14:23,,15.0,York
+0,312.3930099,1525659,CFM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,03/05/2018 07:22,,33.0,Leeds
+0,366.97078769999996,1525663,CFM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,09/03/2018 17:30,,31.0,Leeds
+0,338.6235655,1525802,NOC ,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,07/04/2018 01:50,,26.0,York
+0,422.1707877,1526206,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,13/01/2018 12:42,,12.0,Mirfield
+0,679.8909150000001,1526220,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,30/04/2017 19:25,,13.0,Mirfield
+0,321.022871,1526240,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,24/04/2018 16:15,,12.0,Mirfield
+0,276.2763433,1526364,DOL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,08/06/2018 10:10,,11.0,Mirfield
+0,483.1117598999999,1527447,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,13/11/2017 14:07,,12.0,Leeds
+0,426.11662110000003,1527479,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,09/01/2018 14:00,,11.0,Leeds
+0,667.1166095,1527541,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,13/05/2017 14:00,,9.0,Leeds
+0,257.24160950000004,1527647,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,27/06/2018 11:00,,10.0,Leeds
+0,521.1582877000001,1527855,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - DC                                           ,06/10/2017 13:00,,16.0,Leeds
+0,505.0888433,1527930,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,22/10/2017 14:40,,9.0,Mirfield
+0,264.45967659999997,1529223,HUL4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,20/06/2018 05:46,,13.0,Leeds
+0,308.98884330000004,1529710,LBE1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,06/05/2018 17:04,,11.0,Leeds
+0,316.1964822,1529906,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,29/04/2018 12:05,,21.0,Leeds
+0,648.5159150000001,1529969,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,01/06/2017 04:25,,10.0,Leeds
+0,475.1895377,1529974,TJC3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,21/11/2017 12:15,,9.0,Leeds
+0,415.9020377,1532112,TJC3,S&T,Signalling,Not Applicable,LOCATION CASE,EQUIP HOUSING / LOCATION CASE,App Housing                                       ,19/01/2018 19:09,,41.0,Mirfield
+0,789.3214706,1576723,MVN2,P&C,Points,Signalling,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Sig - Colour                                      ,11/01/2017 09:05,,27.0,Manchester
+0,670.2731952,1576821,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,10/05/2017 10:14,,102.0,Manchester
+0,413.3075933,1578891,MVN2,P&C,Points,Points,PANEL / FRAME,SIGNAL CONTROL - SWITCH,Point Operating Equipment                         ,22/01/2018 09:25,,93.0,Manchester
+0,322.3895377,1624685,HAJ ,E&P,OLE,OLE,SIGNAL,SIGNAL HEAD - 3 ASPECT,UI - OLE Structure                                ,23/04/2018 07:27,,0.0,Huddersfield
+0,335.67912110000003,1624700,HAJ ,E&P,OLE,OLE,SIGNAL,SIGNAL HEAD - 2 ASPECT,UI - OLE Structure                                ,10/04/2018 00:30,,0.0,Huddersfield
+0,613.44301,1648347,MVN2,E&P,E&P,E&P,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,Diesel Alternator Set                             ,06/07/2017 06:10,,101.0,Manchester
+0,720.0895262,1667658,ECM3,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - ELECT MECH,Sigcont Elecmec                                   ,21/03/2017 14:39,,20.0,York
+0,398.49162110000003,1670641,TCW1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT AC IMMUNE,TC - DC                                           ,06/02/2018 05:00,,53.0,York
+0,723.4874427999999,1694189,MDL1,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,AWS - AUTOMATIC WARNING SYSTEM,AWS                                               ,18/03/2017 05:06,,12.0,Mirfield
+0,435.1200933,1697000,MVN2,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,AWS - AUTOMATIC WARNING SYSTEM,AWS                                               ,31/12/2017 13:55,,10.0,Mirfield
+0,672.0926049,1697974,TJC3,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,AWS - AUTOMATIC WARNING SYSTEM,AWS                                               ,08/05/2017 14:34,,3.0,Leeds
+0,733.3691327,1730405,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,08/03/2017 07:56,,31.0,Huddersfield
+0,298.7520378,1770159,MVL1,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - GEOG,Sig - Pos Light                                   ,16/05/2018 22:45,,19.0,Manchester
+0,372.11662110000003,1773689,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,04/03/2018 14:00,,30.0,Mirfield
+0,277.4166211,1790838,MVN2,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,PRINCIPAL SUPPLY POINT - 650V,Signalling Supply                                 ,07/06/2018 06:48,,46.0,Huddersfield
+0,672.7346651,1800438,ECM4,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,07/05/2017 23:10,,3.0,York
+0,403.13745439999997,1801500,ECM4,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,01/02/2018 13:30,,2.0,York
+0,270.63051,1811508,MDL1,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,14/06/2018 01:40,,154.0,Mirfield
+0,625.6999545,1817562,DOL2,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,24/06/2017 00:00,,5.0,Leeds
+0,788.5575818,1819980,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,12/01/2017 03:25,,16.0,Mirfield
+0,327.5138433,1821012,HUL4,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,18/04/2018 04:28,,4.0,Leeds
+0,656.9916096,1821306,DOL2,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,23/05/2017 17:00,,2.0,Leeds
+0,309.5089822,1821309,DOL2,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,06/05/2018 04:35,,2.0,Leeds
+0,674.092304,1821313,DOL2,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,06/05/2017 14:35,,23.0,Leeds
+0,294.59301,1821315,DOL2,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,21/05/2018 02:34,,3.0,Leeds
+0,734.8249429,1822826,HUL4,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,06/03/2017 21:00,,12.0,Leeds
+0,309.5943989,1822997,ELN ,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,06/05/2018 02:32,,0.0,Leeds
+0,354.8457878,1823006,DOL2,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,21/03/2018 20:30,,2.0,Leeds
+0,774.0061929,1831312,MVL3,P&C,Points,Points,TRACK (P.W),TRACK,Point Operating Equipment                         ,26/01/2017 16:39,,115.0,Huddersfield
+0,433.7443989,1833196,TJC3,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,01/01/2018 22:56,,25.0,Leeds
+0,358.0520378,1836380,MVL3,S&T,Telecoms,Telecoms,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Platform Indic                                    ,18/03/2018 15:33,,3.0,Huddersfield
+0,473.52773229999997,1842955,MPR1,S&T,Signalling,Signalling,TRACK (P.W),TRACK,Sig - Pos Light                                   ,23/11/2017 04:08,,21.0,Manchester
+0,758.0436929,1843087,MVM ,S&T,Signalling,Signalling,TRACK (P.W),TRACK,Sig - Pos Light                                   ,11/02/2017 15:45,,22.0,Manchester
+0,617.0916212000001,1849974,TJC3,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,02/07/2017 14:36,,26.0,Leeds
+0,336.5332878,1855659,NOC ,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - NX PANEL,Sigcont NX                                        ,09/04/2018 04:00,,84.0,Leeds
+0,735.2662739,1858063,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -REED - JOINTED,TC - High Freq                                    ,06/03/2017 10:24,,12.0,Manchester
+0,456.7312045,1865260,MVM ,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - NON-GEOG,Sig - Pos Light                                   ,09/12/2017 23:15,,18.0,Manchester
+0,592.8721767000001,1870000,HAJ ,S&T,Signalling,Signalling,PANEL / FRAME,ELECT ROUTE SETTING EQUIP (ERSE),SIGCONT                                           ,26/07/2017 19:52,,0.0,Manchester
+0,606.5853712,1872049,DOL2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,13/07/2017 02:45,,11.0,Leeds
+0,417.7832878,1872562,HUL3,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Level Crossing                                    ,17/01/2018 22:00,,134.0,York
+0,271.1791212,1873345,HUL3,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Level Crossing                                    ,13/06/2018 12:30,,155.0,York
+0,464.15828789999995,1873365,HUL3,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Level Crossing                                    ,02/12/2017 13:00,,155.0,York
+0,498.59509339999994,1873391,TCW1,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Level Crossing                                    ,29/10/2017 02:31,,90.0,York
+0,571.1374545,1873893,TJC3,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,17/08/2017 13:30,,25.0,Leeds
+0,359.53328789999995,1953026,MVN2,S&T,Signalling,Not Applicable,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Mechanical Lever Equipment                        ,17/03/2018 04:00,,24.0,Huddersfield
+0,152.8562045,1962828,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,09/10/2018 20:15,,20.0,Leeds
+0,434.1652323,1962829,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT PLAIN,TC - DC                                           ,01/01/2018 12:50,,45.0,Leeds
+0,360.1374545,1967076,HUL3,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MANNED CONTROLLED BARRIERS,Level Crossing                                    ,16/03/2018 13:30,,154.0,York
+0,466.78328789999995,1973292,NOC ,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MANNED CONTROLLED BARRIERS,Level Crossing                                    ,29/11/2017 22:00,,90.0,Leeds
+0,380.9499545,1979945,NOC ,S&T,Signalling,Signalling,TRAIN DESCRIBER,TD - WESTINGHOUSE VME,Train Describer                                   ,23/02/2018 18:00,,57.0,Leeds
+0,264.1374545,1979946,HUL3,S&T,Signalling,Signalling,TRAIN DESCRIBER,TD - WBS SMALL BUS,Train Describer                                   ,20/06/2018 13:30,,39.0,York
+0,670.1904059,1982026,LBE1,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - USER WORKED XING WITH MWL,Level Crossing                                    ,10/05/2017 12:13,,132.0,Leeds
+0,771.887443,1987737,HUL3,S&T,Signalling,Signalling,TRAIN DESCRIBER,TD - WBS SMALL BUS,Train Describer                                   ,28/01/2017 19:30,,49.0,York
+0,349.4048157,1993388,MVL3,S&T,Signalling,Signalling,AXLE COUNTER,AXLE COUNTER SEL AZL 70/30,Axle Counter                                      ,27/03/2018 07:05,,57.0,Huddersfield
+0,220.7499546,1993396,MVL3,S&T,Signalling,Signalling,AXLE COUNTER,AXLE COUNTER SEL AZL 70/30,Axle Counter                                      ,02/08/2018 22:48,,45.0,Huddersfield
+0,403.18953789999995,1993399,MDL1,S&T,Signalling,Signalling,AXLE COUNTER,AXLE COUNTER SEL AZL 70/30,Axle Counter                                      ,01/02/2018 12:15,,48.0,Mirfield
+0,330.6235657,1998913,BPP ,Track,Track,Fences and Barriers,POINTS (S&C),S&C - TURNOUT,BOUNDARY SIDE                                     ,15/04/2018 01:50,,0.0,Manchester
+0,398.269399,1999272,ECM3,Track,Fences and Barriers,Fences and Barriers,BOUNDARY MEASURE,BOUNDARY UPSIDE,BOUNDARY SIDE                                     ,06/02/2018 10:20,,0.0,York
+0,395.22078789999995,1999658,MVN2,Track,Fences and Barriers,Fences and Barriers,BOUNDARY MEASURE,BOUNDARY UPSIDE,BOUNDARY SIDE                                     ,09/02/2018 11:30,,0.0,Huddersfield
+0,641.762443,1999769,MDL1,Track,Fences and Barriers,Fences and Barriers,BOUNDARY MEASURE,BOUNDARY UPSIDE,BOUNDARY SIDE                                     ,07/06/2017 22:30,,0.0,Mirfield
+0,417.40064900000004,2001752,MVL3,E&P,OLE,Fences and Barriers,OLE STRUCTURE,OLE STRUCT -  CANTILEVER,BOUNDARY SIDE                                     ,18/01/2018 07:11,,0.0,Manchester
+0,631.7207879,2001754,MVM ,Track,Track,Fences and Barriers,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,BOUNDARY SIDE                                     ,17/06/2017 23:30,,0.0,Manchester
+0,229.1200935,2001756,MVN2,Track,Fences and Barriers,Fences and Barriers,BOUNDARY MEASURE,BOUNDARY DNSIDE,BOUNDARY SIDE                                     ,25/07/2018 13:55,,0.0,Huddersfield
+0,331.0228713,2001958,PPA1,Track,Fences and Barriers,Fences and Barriers,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),BOUNDARY SIDE                                     ,14/04/2018 16:15,,0.0,Huddersfield
+0,389.956899,2004129,MVN2,S&T,Signalling,Not Applicable,PANEL / FRAME,SIGCONT&INDEQ - LEVER F STAND,Mechanical Lever Equipment                        ,14/02/2018 17:50,,26.0,Mirfield
+0,755.1443875,2024163,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,14/02/2017 13:20,,14.0,Mirfield
+0,273.1548157,2024263,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,11/06/2018 13:05,,13.0,Mirfield
+0,371.02564900000004,2024343,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,05/03/2018 16:11,,91.0,Mirfield
+0,395.144399,2024345,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,09/02/2018 13:20,,99.0,Mirfield
+0,368.1999546,2024347,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - POINT MACHINE,Point Operating Equipment                         ,08/03/2018 12:00,,96.0,Mirfield
+0,482.53328789999995,2029276,MVL3,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - NX PANEL,Sigcont NX                                        ,14/11/2017 04:00,,14.0,Huddersfield
+0,397.14509350000003,2029304,ECM4,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS PLUS - TSS & OSS,TPWS                                              ,07/02/2018 13:19,,13.0,York
+0,302.4499546,2037528,TJC3,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,13/05/2018 06:00,,0.0,Huddersfield
+0,320.56453789999995,2061893,ECM4,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,25/04/2018 03:15,,0.0,York
+0,611.1485657000001,2061928,HSC ,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,08/07/2017 13:14,,0.0,York
+0,311.9916213,2061932,HUL3,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,03/05/2018 17:00,,0.0,York
+0,391.49717680000003,2061933,HUL4,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,13/02/2018 04:52,,1.0,Leeds
+0,645.9568991,2061944,LBE1,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,03/06/2017 17:50,,0.0,Leeds
+0,334.4499546,2061960,MDL1,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,11/04/2018 06:00,,1.0,Mirfield
+0,617.002038,2061969,MVL4,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,02/07/2017 16:45,,0.0,Mirfield
+0,339.55064910000004,2061970,MVN2,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,06/04/2018 03:35,,3.0,Mirfield
+0,201.533288,2061985,PEH ,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,22/08/2018 04:00,,0.0,Huddersfield
+0,687.7499431,2062015,TCW1,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,22/04/2017 22:48,,0.0,York
+0,394.59717689999997,2062044,TJC3,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,10/02/2018 02:28,,0.0,Mirfield
+0,634.1763434999999,2071743,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,15/06/2017 12:34,,15.0,Mirfield
+0,385.7138435,2095932,TCW1,S&T,Signalling,Signalling,SIGNAL,SIGNAL - POS LIGHT 3 ASPECT,Sig - Pos Light                                   ,18/02/2018 23:40,,26.0,York
+0,257.3249546,2116896,HUL3,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - NX PANEL,Sigcont NX                                        ,27/06/2018 09:00,,112.0,York
+0,264.50203799999997,2116904,NOC ,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - NX PANEL,Sigcont NX                                        ,20/06/2018 04:45,,90.0,Leeds
+0,302.1166213,2116911,HUL3,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - NX PANEL,Sigcont NX                                        ,13/05/2018 14:00,,77.0,York
+0,396.2513435,2124750,HAJ ,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - DATA LNK MOD,Intlok SS                                         ,08/02/2018 10:46,,5.0,Manchester
+0,682.8666097999999,2183184,NOC ,S&T,Telecoms,Telecoms,TELEPHONE - CROSSING,"TEL, UNCONTROLLED XING, CB",Telephones-LS                                     ,27/04/2017 20:00,,28.0,Huddersfield
+0,419.3666213,2241758,MVL3,S&T,Signalling,Signalling,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Sigcont Elecmec                                   ,16/01/2018 08:00,,0.0,Huddersfield
+0,711.3943875,2241760,MVL1,S&T,Signalling,Signalling,TRACK (P.W),TRACK,Sigcont NX                                        ,30/03/2017 07:20,,23.0,Manchester
+0,600.033288,2242019,HAJ ,S&T,Signalling,Signalling,LEVEL CROSSING EQUIPMENT,LX - MANNED CONTROLLED BARRIERS,Sigcont Elecmec                                   ,19/07/2017 16:00,,1.0,Manchester
+0,284.51939910000004,2242593,HAJ ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,31/05/2018 04:20,,11.0,Manchester
+0,784.8416097999999,2402964,HUL4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - MAST,UI - OLE Structure                                ,15/01/2017 20:36,,1.0,Huddersfield
+0,651.2682417000001,2404191,HAJ ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,29/05/2017 10:21,,192.0,Manchester
+0,278.53328799999997,2404227,HAJ ,P&C,Points,Points,TRACK (P.W),TRACK,Point Operating Equipment                         ,06/06/2018 04:00,,152.0,Manchester
+0,305.1374547,2410736,MVL3,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,10/05/2018 13:30,,28.0,Huddersfield
+0,303.020788,2439848,TJC3,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,12/05/2018 16:18,,0.0,Leeds
+0,398.68953799999997,2439895,HUL4,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,06/02/2018 00:15,,0.0,Leeds
+0,668.9916097999999,2439901,LBE1,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,11/05/2017 17:00,,0.0,Leeds
+0,276.99856580000005,2440031,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,07/06/2018 16:50,,0.0,Leeds
+0,630.3381492000001,2440037,TJC3,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,19/06/2017 08:41,,3.0,Leeds
+0,625.3499547,2440328,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,24/06/2017 08:24,,0.0,Leeds
+0,777.8554987000001,2440334,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,22/01/2017 20:16,,0.0,Leeds
+0,460.1964825,2440516,HUL4,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,06/12/2017 12:05,,0.0,Leeds
+0,513.9395381,2440583,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - DATA LNK MOD,Intlok SS                                         ,13/10/2017 18:15,,0.0,Leeds
+0,608.9902325,2446408,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,10/07/2017 17:02,,0.0,Leeds
+0,703.4499431,2446447,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,07/04/2017 06:00,,0.0,Leeds
+0,495.3075936000001,2446624,PEH ,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,01/11/2017 09:25,,0.0,Huddersfield
+0,600.8881492,2446640,DOL2,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - SIGNAL,Intlok SS                                         ,18/07/2017 19:29,,0.0,Leeds
+0,466.8499547,2452647,MVN2,S&T,Signalling,Signalling,PANEL / FRAME,SIGCONT&INDEQ - NX PANEL,Sigcont NX                                        ,29/11/2017 20:24,,50.0,Mirfield
+0,732.927721,2460039,MVN2,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER LED - 1 ROUTE,Route Ind Jcn                                     ,08/03/2017 18:32,,23.0,Mirfield
+0,271.2555103,2460476,DOL2,S&T,Telecoms,Telecoms,SIGNAL,ROUTE IND THEATRE F OPT 7 ROUTE,Route Ind Thr                                     ,13/06/2018 10:40,,13.0,Leeds
+0,525.2520381,2462317,DOL2,S&T,Telecoms,Telecoms,SIGNAL,ROUTE IND THEATRE NON F OPTIC,Route Ind Thr                                     ,02/10/2017 10:45,,18.0,Mirfield
+0,365.1270381,2464458,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,11/03/2018 13:45,,47.0,Leeds
+0,321.0020381,2464537,MVL3,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER LED - 1 ROUTE,Route Ind Jcn                                     ,24/04/2018 16:45,,11.0,Huddersfield
+0,412.0853714,2489239,CFM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,23/01/2018 14:45,,6.0,Leeds
+0,510.1263437,2489246,CFM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -ASTER SF15 / U TYPE,TC - High Freq                                    ,17/10/2017 13:46,,13.0,Leeds
+0,445.5541214,2504880,ECM4,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,21/12/2017 03:30,,26.0,York
+0,454.5367603,2513472,TJC3,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE POWER - SIGNAL  (VIRTL),Signalling Cable                                  ,12/12/2017 03:55,,0.0,Huddersfield
+0,271.5270381,2513669,CFM ,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE POWER - SIGNAL  (VIRTL),Signalling Cable                                  ,13/06/2018 04:09,,0.0,Leeds
+0,777.5541099,2513689,DOL2,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE POWER - SIGNAL  (VIRTL),Signalling Cable                                  ,23/01/2017 03:30,,0.0,Leeds
+0,633.3916214,2513730,LBE1,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE POWER - SIGNAL  (VIRTL),Signalling Cable                                  ,16/06/2017 07:24,,0.0,Leeds
+0,311.0089826,2513756,MVN2,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE POWER - SIGNAL  (VIRTL),Signalling Cable                                  ,04/05/2018 16:35,,0.0,Mirfield
+0,738.8457766,2513767,HUL3,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE POWER - SIGNAL  (VIRTL),Signalling Cable                                  ,02/03/2017 20:30,,0.0,York
+0,611.5964826000001,2514361,MVL1,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,"EL SUP PT, METERED, DNO, IN CAB",Signalling Cable                                  ,08/07/2017 02:29,,0.0,Manchester
+0,460.4416215,2514783,HAJ ,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,06/12/2017 06:12,,0.0,Manchester
+0,374.1999548,2514855,MVL1,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,02/03/2018 12:00,,0.0,Manchester
+0,591.0471769999999,2514858,MVM ,P&C,Points,Signalling,POINTS (OPERATING EQUIPMENT),POE - MECHANICAL,Signalling Cable                                  ,28/07/2017 15:40,,0.0,Manchester
+0,487.2666215,2514859,MVN2,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Signalling Cable                                  ,09/11/2017 10:24,,0.0,Manchester
+0,348.4457882,2537900,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21 DIGITAL,TC - High Freq                                    ,28/03/2018 06:06,,15.0,Huddersfield
+0,644.2555103999999,2558343,HUL4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - HEADSPAN,UI - OLE Structure                                ,05/06/2017 10:40,,6.0,Huddersfield
+0,379.5124548,2558608,HUL4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - PORTAL,UI - OLE Structure                                ,25/02/2018 04:30,,6.0,Huddersfield
+0,331.9499548,2558617,HUL4,E&P,OLE,OLE,OLE STRUCTURE,OLE STRUCT - HEADSPAN ANCHOR,UI - OLE Structure                                ,13/04/2018 18:00,,5.0,Huddersfield
+0,276.1791215,2644712,MVN2,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,08/06/2018 12:30,,21.0,Mirfield
+0,768.1478599,2670795,NOC ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD - LED LIGHT ENGINE,Sig - Colour                                      ,01/02/2017 13:15,,28.0,York
+0,426.0645382,2702765,DOL2,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,09/01/2018 15:15,,0.0,Leeds
+0,357.84578819999996,2702767,DOL2,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,18/03/2018 20:30,,0.0,Leeds
+0,497.1437048,2702870,ECM4,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,30/10/2017 13:21,,0.0,York
+0,299.3666215,2702952,HAJ ,E&P,OLE,OLE,TRACK (P.W),TRACK,KE - Electrical Section                           ,16/05/2018 08:00,,63.0,Manchester
+0,657.5804988,2703295,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,23/05/2017 02:52,,0.0,Leeds
+0,269.14023260000005,2703339,HAJ ,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,15/06/2018 13:26,,10.0,Manchester
+0,437.07495489999997,2703796,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,29/12/2017 15:00,,0.0,Leeds
+0,269.15828819999996,2703801,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,15/06/2018 13:00,,0.0,Leeds
+0,392.47078819999996,2703803,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,12/02/2018 05:30,,1.0,Leeds
+0,768.1443877,2703805,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,01/02/2017 13:20,,0.0,Leeds
+0,358.1305104,2703921,DOL2,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,18/03/2018 13:40,,1.0,Leeds
+0,274.5291215,2703922,DOL2,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,10/06/2018 04:06,,1.0,Leeds
+0,286.0318993,2704032,HAJ ,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,29/05/2018 16:02,,65.0,Manchester
+0,357.9291216,2704237,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,18/03/2018 18:30,,1.0,Leeds
+0,611.1582882,2704241,TJC3,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,08/07/2017 13:00,,0.0,Leeds
+0,425.442316,2704259,HAJ ,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,10/01/2018 06:11,,28.0,Manchester
+0,321.59231600000004,2704380,ECM4,E&P,OLE,OLE,OLE ELECTRICAL SECTION,OLE ELECTRICAL SECTION,KE - Electrical Section                           ,24/04/2018 02:35,,0.0,York
+0,339.2506493,2704910,CFM ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MV AC IMM DC TOL,TC - DC                                           ,06/04/2018 10:47,,10.0,York
+0,153.4916216,2710421,ECM4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,09/10/2018 05:00,,10.0,York
+0,258.4916216,2710468,NOC ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,26/06/2018 05:00,,10.0,York
+0,663.2728599999999,2710821,ECM4,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,17/05/2017 10:15,,32.0,York
+0,790.2131377999999,2711146,HUL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,10/01/2017 11:41,,42.0,York
+0,599.5749549,2711164,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,20/07/2017 03:00,,30.0,York
+0,732.2346656000001,2711165,HUL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC LOW VOLT PLAIN,TC - DC                                           ,09/03/2017 11:10,,42.0,York
+0,466.8353716,2729430,HUL3,S&T,Telecoms,Telecoms,TELEPHONE - CROSSING,"TEL, UNCONTROLLED XING, CB",Telephones-LS                                     ,29/11/2017 20:45,,25.0,Huddersfield
+0,448.4249549,2751765,ECM3,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,18/12/2017 06:36,,0.0,York
+0,460.81801050000007,2753760,NOC ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,05/12/2017 21:10,,107.0,York
+0,270.2416216,2753766,NOC ,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,14/06/2018 11:00,,96.0,York
+0,294.67078829999997,2771604,ECM4,S&T,Telecoms,Telecoms,SIGNAL,OFF INDICATOR - STENCIL LED,Platform Indic                                    ,21/05/2018 00:42,,15.0,York
+0,277.35967719999996,2837110,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,07/06/2018 08:10,,16.0,Mirfield
+0,425.72426050000007,2842446,NOC ,S&T,Telecoms,Telecoms,HOT BOX DETECTOR,HABD / PHEONIX - SYSTEM,HABD                                              ,09/01/2018 23:25,,25.0,York
+0,736.3609619,2908190,HAJ ,S&T,Telecoms,Telecoms,ELECTRICAL SUPPLY POINT,BENDER UNIT - REMOTELY MONITORED,Telemetry                                         ,05/03/2017 08:08,,86.0,Manchester
+0,481.84578830000004,2933283,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Intlok SS                                         ,14/11/2017 20:30,,0.0,Manchester
+0,357.824955,2937907,TJC3,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,PRINCIPAL SUPPLY POINT - 650V,Signalling Supply                                 ,18/03/2018 21:00,,1.0,Mirfield
+0,255.43606609999998,2989165,MVM ,S&T,Signalling,Signalling,SOLID STATE INTERLOCKING,SOLID STATE INTER - TFM - POINTS,Intlok SS                                         ,29/06/2018 06:20,,0.0,Manchester
+0,424.0700938999999,3166736,ECM4,S&T,Telecoms,Telecoms,HOT BOX DETECTOR,HABD / PHEONIX - SYSTEM,HABD                                              ,11/01/2018 15:07,,0.0,York
+0,701.6166101,3268171,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,09/04/2017 02:00,,10.0,Huddersfield
+0,787.2416101,3674674,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,13/01/2017 11:00,,27.0,Manchester
+0,251.17912169999997,3739043,TJC3,S&T,Signalling,Not Applicable,SIGNAL,ROUTE IND FEATHER LED - 1 ROUTE,Route Ind Jcn                                     ,03/07/2018 12:30,,10.0,Leeds
+0,263.1860661,4692453,MVN2,S&T,Signalling,Signalling,AXLE COUNTER,AXLE CNTER FRAUSCHER WHEEL DETR,Sig - Colour                                      ,21/06/2018 12:20,,22.0,Manchester
+0,581.3082883,4692455,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,07/08/2017 09:24,,24.0,Manchester
+0,276.2381494,4692460,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,08/06/2018 11:05,,21.0,Manchester
+0,31.44162168,4692466,MVN2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,08/02/2019 06:12,,20.0,Manchester
+0,677.9784157,6439281,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,02/05/2017 17:19,,16.0,Mirfield
+0,775.2514712000001,6701175,MVN2,S&T,Signalling,Signalling,TRAIN DESCRIBER,TD - WESTINGHOUSE VME,Train Describer                                   ,25/01/2017 10:45,,34.0,Manchester
+0,429.937455,6785164,CFM ,S&T,Telecoms,Telecoms,TELEPHONE - CROSSING,"TEL, UNCONTROLLED XING, CB",Telephones-LS                                     ,05/01/2018 18:18,,28.0,Huddersfield
+0,398.3041217,6785165,CFM ,S&T,Telecoms,Telecoms,TELEPHONE - CROSSING,"TEL, UNCONTROLLED XING, CB",Telephones-LS                                     ,06/02/2018 09:30,,26.0,Huddersfield
+0,395.0673161,7694144,HUL4,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,09/02/2018 15:11,,14.0,Leeds
+0,433.0985661,7780568,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,02/01/2018 14:26,,28.0,Mirfield
+0,329.3214828,7789743,MVL2,Track,Track,Track,SIGNAL,SIGNAL HEAD - 4 ASPECT,Track ID                                          ,16/04/2018 09:05,,0.0,Manchester
+0,414.21106610000004,7789747,SAJ ,Track,Track,Track,TRACK (P.W),TRACK,Track ID                                          ,21/01/2018 11:44,,0.0,Manchester
+0,341.9388439,7789748,SAJ ,Track,Track,Track,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,Track ID                                          ,03/04/2018 18:16,,0.0,Manchester
+0,270.0541217,7796429,MVN2,S&T,Signalling,Signalling,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Sigcont NX                                        ,14/06/2018 15:30,,26.0,Manchester
+0,265.199955,7878616,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,19/06/2018 12:00,,27.0,Mirfield
+0,676.0770267999999,7919932,MVN2,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - GEOG,Intlok Relay                                      ,04/05/2017 14:57,,9.0,Huddersfield
+0,643.9152328,9247647,MVL3,S&T,Telecoms,Telecoms,SIGNAL,ROUTE IND STENCIL - 3 ROUTE,Route Ind Sten                                    ,05/06/2017 18:50,,12.0,Manchester
+0,667.9499434999999,9247659,MVL3,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,12/05/2017 18:00,,9.0,Manchester
+0,432.7443995,9256904,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,02/01/2018 22:56,,10.0,Mirfield
+0,640.1582884,9263878,HAJ ,S&T,Signalling,Signalling,LEVEL CROSSING EQUIPMENT,LX - CCTV MONITORED BARRIERS,Train Describer                                   ,09/06/2017 13:00,,2.0,Manchester
+0,320.2152328,9265336,MVL2,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,AWS - AUTOMATIC WARNING SYSTEM,AWS                                               ,25/04/2018 11:38,,4.0,Manchester
+0,54.12217728,9266156,MVL1,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -TI21,TC - High Freq                                    ,16/01/2019 13:52,,14.0,Manchester
+0,450.46106619999995,10159829,MVL2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TPWS                                              ,16/12/2017 05:44,,14.0,Manchester
+0,325.4388439,10164079,MVL2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,20/04/2018 06:16,,119.0,Manchester
+0,268.16176060000004,10164087,MVL2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,16/06/2018 12:55,,125.0,Manchester
+0,625.6999551,10164143,MVL2,P&C,Points,Points,TRAIN READY TO START (TRTS) SYS,TRAIN READY TO START (TRTS) SYS,Point Operating Equipment                         ,24/06/2017 00:00,,123.0,Manchester
+0,301.395094,10169828,MVN2,P&C,Level Crossings,Level Crossings,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,Level Crossing                                    ,14/05/2018 07:19,,243.0,Manchester
+0,796.9707768,10290324,MVL3,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,03/01/2017 17:30,,18.0,Huddersfield
+0,658.2791102000001,10290424,TCW1,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,22/05/2017 10:06,,19.0,York
+0,703.3249434999999,10290474,DOL2,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,07/04/2017 09:00,,18.0,Leeds
+0,332.2485662,10290512,NOC ,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,13/04/2018 10:50,,20.0,Leeds
+0,304.8666218,10292644,MVN2,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,FUNCTIONAL SUPPLY POINT - 650V,Signalling Supply                                 ,10/05/2018 20:00,,0.0,Huddersfield
+0,616.8110662,10292768,NOC ,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,FUNCTIONAL SUPPLY POINT - 650V,Signalling Supply                                 ,02/07/2017 21:20,,0.0,York
+0,660.6582768999999,10294778,MVN2,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - NON-GEOG,Intlok Relay NG                                   ,20/05/2017 01:00,,2.0,Mirfield
+0,629.5020384,10294783,DOL2,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - NON-GEOG,Intlok Relay NG                                   ,20/06/2017 04:45,,0.0,Mirfield
+0,413.13745510000007,10294790,HUL3,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - NON-GEOG,Intlok Relay NG                                   ,22/01/2018 13:30,,0.0,Leeds
+0,605.2624551,10294791,NOC ,S&T,Signalling,Signalling,INTERLOCKING,INTERLOCKING - RELAY - NON-GEOG,Intlok Relay NG                                   ,14/07/2017 10:30,,0.0,York
+0,349.7853718,10330725,MVL2,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,26/03/2018 21:57,,27.0,Manchester
+0,274.8353718,10341377,MVN2,Track,Track,Track,LEVEL CROSSING EQUIPMENT,LX - MCB WITH OBSTACLE DETECTION,S&C Unit                                          ,09/06/2018 20:45,,233.0,Huddersfield
+0,775.5784158,10353641,MVN2,S&T,Signalling,Signalling,TRACK (P.W),TRACK,Sig - Colour                                      ,25/01/2017 02:55,,13.0,Manchester
+0,593.9707884,10363615,MVN2,S&T,Signalling,Signalling,LINESIDE SIGNALLING CABLE,CABLE MULTICORE - SIGNAL (VIRTL),Sig - Semaphore                                   ,25/07/2017 17:30,,49.0,Manchester
+0,756.3103022999999,10376835,DOL2,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, MOBILE GSM-R",Virtual Telecoms Assets                           ,13/02/2017 09:21,,0.0,Leeds
+0,733.0928486,10377357,MVN2,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, MOBILE GSM-R",Virtual Telecoms Assets                           ,08/03/2017 14:34,,0.0,Huddersfield
+0,706.2348278,10377420,NOC ,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, MOBILE GSM-R",Virtual Telecoms Assets                           ,04/04/2017 11:09,,0.0,Leeds
+0,599.1291217999999,10391812,DOL2,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,20/07/2017 13:42,,0.0,Leeds
+0,649.2187514,10391813,DOL2,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,31/05/2017 11:32,,0.0,Leeds
+0,622.2853717999999,10392091,HUL2,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,27/06/2017 09:57,,0.0,York
+0,714.1294690000001,10392092,HUL3,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,27/03/2017 13:41,,0.0,York
+0,453.21737410000003,10392094,HUL4,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,13/12/2017 11:34,,0.0,Leeds
+0,306.21939960000003,10392383,MVL3,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,09/05/2018 11:32,,0.0,Huddersfield
+0,602.3582885,10392449,NOC ,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,17/07/2017 08:12,,0.0,Leeds
+0,469.19231619999994,10392814,TJC3,S&T,Telecoms,Telecoms,RADIO - COVERAGE / MOBILE,"RADIO, COVERAGE, GSM-R",Virtual Telecoms Assets                           ,27/11/2017 12:11,,0.0,Mirfield
+0,333.19995510000007,10411607,SAJ ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,12/04/2018 12:00,,21.0,Manchester
+0,358.28328849999997,10432733,MVN2,Track,Fences and Barriers,Fences and Barriers,POINTS (S&C),S&C - TURNOUT,BOUNDARY SIDE                                     ,18/03/2018 10:00,,0.0,Huddersfield
+0,359.12287180000004,10432734,MVN2,P&C,Points,Fences and Barriers,AXLE COUNTER,AXLE CNTER FRAUSCHER WHEEL DETR,BOUNDARY SIDE                                     ,17/03/2018 13:51,,0.0,Huddersfield
+0,307.16870510000007,10432899,TJC3,Track,Fences and Barriers,Fences and Barriers,BOUNDARY MEASURE,BOUNDARY UPSIDE,BOUNDARY SIDE                                     ,08/05/2018 12:45,,0.0,Leeds
+0,676.1883347999999,10683554,PEH ,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -DC MED VOLT AC IMMUNE,TC - DC                                           ,04/05/2017 12:16,,27.0,Huddersfield
+0,740.2869459,10685342,ECM4,S&T,Signalling,Signalling,TRAIN WARNING SYSTEM,TPWS - OSS,TPWS                                              ,01/03/2017 09:54,,6.0,York
+0,265.8041218,11352224,TJC3,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,"EL SUP PT, METERED, DNO, IN CAB",PV - Electricity Supply Point                     ,18/06/2018 21:30,,16.0,Leeds
+0,277.86245519999994,14105964,CFM ,E&P,E&P,E&P,ELECTRICAL SUPPLY POINT,ELECTRICITY SUPPLY POINT,PV - Electricity Supply Point                     ,06/06/2018 20:06,,19.0,York
+0,352.95342739999995,17006519,MVN2,P&C,Points,Points,POINTS (OPERATING EQUIPMENT),POE - HYDRAULIC/PNEUMATIC,Point Operating Equipment                         ,23/03/2018 17:55,,106.0,Huddersfield
+0,780.7311936000001,17055406,MVN2,S&T,Signalling,Signalling,SIGNAL,C/L LIGHT LED DORMAN INTERGRATED,Sig - Colour                                      ,19/01/2017 23:15,,11.0,Huddersfield
+0,429.45898289999997,17901673,MVN2,S&T,Signalling,Signalling,ELECTRICAL SUPPLY POINT,FUNCTIONAL SUPPLY POINT - 650V,Signalling Supply                                 ,06/01/2018 05:47,,2.0,Manchester
+0,462.3124552,18227081,HAJ ,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,04/12/2017 09:18,,87.0,Manchester
+0,360.53328849999997,18227082,HAJ ,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,16/03/2018 04:00,,90.0,Manchester
+0,257.02426069999996,18241930,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -EBI 400 DBL RAIL APP,TC - High Freq                                    ,27/06/2018 16:13,,6.0,Manchester
+0,236.296483,18241931,MVN2,S&T,Signalling,Signalling,TRACK CIRCUIT,TRACK CCT -EBI 400 DBL RAIL APP,TC - High Freq                                    ,18/07/2018 09:41,,2.0,Manchester
+0,484.0930107,18248068,ECM4,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,12/11/2017 14:34,,0.0,York
+0,367.7513441,18248069,ECM4,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,08/03/2018 22:46,,0.0,York
+0,484.09578849999997,18248070,ECM4,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,12/11/2017 14:30,,0.0,York
+0,269.2416219,18248071,ECM4,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,15/06/2018 11:00,,0.0,York
+0,664.8673047,18652961,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,15/05/2017 19:59,,5.0,Leeds
+0,482.3353719,18654037,HUL4,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,14/11/2017 08:45,,6.0,Leeds
+0,363.6791219,18666843,TJC3,S&T,Telecoms,Telecoms,HOT BOX DETECTOR,HABD / PHEONIX - SYSTEM,HABD                                              ,13/03/2018 00:30,,12.0,Leeds
+0,214.7693997,18674707,PEH ,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 1 MOD,Sig - Colour                                      ,08/08/2018 22:20,,7.0,Huddersfield
+0,119.2756497,18697685,HAJ ,S&T,Signalling,Signalling,PANEL / FRAME,WESTCAD CONTROL SYSTEM,SIGCONT                                           ,12/11/2018 10:11,,90.0,Manchester
+0,402.40898300000003,18778080,DOL2,S&T,Telecoms,Telecoms,SIGNAL,RA/CD INDICATOR - STENCIL LED,Platform Indic                                    ,02/02/2018 06:59,,0.0,Leeds
+0,405.9786705,18789880,HUL4,S&T,Telecoms,Telecoms,SIGNAL,RA/CD INDICATOR - STENCIL LED,Platform Indic                                    ,29/01/2018 17:18,,4.0,Leeds
+0,301.7256497,18804192,TJC3,S&T,Signalling,Signalling,SIGNAL,SIGNAL HEAD -  CONV LED - 2 MOD,Sig - Colour                                      ,13/05/2018 23:23,,3.0,Leeds
+0,412.1062052,18808004,MDL1,S&T,Signalling,Signalling,TRAIN DESCRIBER,TD - WBS SMALL BUS,Train Describer                                   ,23/01/2018 14:15,,0.0,Mirfield
